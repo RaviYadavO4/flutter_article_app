@@ -74,6 +74,7 @@ lib/
     └── hive_boxes.dart            # Hive box initialization
 
 
+
 ## ⚠️ Known Issues / Limitations
 No pagination support (loads all posts at once)
 No offline mode for articles
