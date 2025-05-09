@@ -83,30 +83,15 @@ No error retry button (yet)
 
 ## 📸 Screenshots
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
+| 🏠 Home Screen                | 🔍 Search Functionality        |
+|-------------------------------|--------------------------------|
+| ![Home Screen](screenshots/home_screen.jpeg)  | ![Search Screen](screenshots/search_screen.jpeg) |
+| **Home Screen**               | **Search Functionality**       |
 
-    <div style="text-align: center;">
-        <h3>🏠 Home Screen</h3>
-        <img src="screenshots/home_screen.jpeg" alt="Home Screen" style="width: 100%; height: auto; border-radius: 8px;">
-    </div>
-
-    <div style="text-align: center;">
-        <h3>🔍 Search Functionality</h3>
-        <img src="screenshots/search_screen.jpeg" alt="Search Screen" style="width: 100%; height: auto; border-radius: 8px;">
-    </div>
-
-    <div style="text-align: center;">
-        <h3>📄 Article Detail View</h3>
-        <img src="screenshots/detail_screen.jpeg" alt="Article Detail View" style="width: 100%; height: auto; border-radius: 8px;">
-    </div>
-
-    <div style="text-align: center;">
-        <h3>📄 Favorites View</h3>
-        <img src="screenshots/favorites_screen.jpeg" alt="Favorites View" style="width: 100%; height: auto; border-radius: 8px;">
-    </div>
-
-</div>
-
+| 📄 Article Detail View        | 📄 Favorites View              |
+|-------------------------------|--------------------------------|
+| ![Article Detail View](screenshots/detail_screen.jpeg) | ![Favorites View](screenshots/favorites_screen.jpeg) |
+| **Article Detail View**       | **Favorites View**     
 
 ## 🎥 Video Walkthrough
 
