@@ -95,6 +95,13 @@ No error retry button (yet)
 ### 📄 Favorites View
 ![Favorites Screen](screenshots/favorites_screen.jpeg)
 
+## 🎥 Video Walkthrough
+
+Watch the video walkthrough for a detailed overview of the app:
+
+[![Watch the video](https://img.youtube.com/vi/BMdsFp2xF-E/maxresdefault.jpg)](https://youtube.com/shorts/BMdsFp2xF-E)
+
+
 ## 📌 Author
 
 **Ravi Yadav**  
