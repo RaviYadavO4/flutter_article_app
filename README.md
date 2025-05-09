@@ -72,7 +72,7 @@ lib/
 │
 └── utils/
     └── hive_boxes.dart            # Hive box initialization
-
+```
 
 
 ## ⚠️ Known Issues / Limitations
