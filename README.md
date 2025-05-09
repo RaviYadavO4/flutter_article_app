@@ -83,17 +83,30 @@ No error retry button (yet)
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-![Home Screen](screenshots/home_screen.jpeg)
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
 
-### 🔍 Search Functionality
-![Search Screen](screenshots/search_screen.jpeg)
+    <div style="text-align: center;">
+        <h3>🏠 Home Screen</h3>
+        <img src="screenshots/home_screen.jpeg" alt="Home Screen" style="width: 100%; height: auto; border-radius: 8px;">
+    </div>
 
-### 📄 Article Detail View
-![Detail Screen](screenshots/detail_screen.jpeg)
+    <div style="text-align: center;">
+        <h3>🔍 Search Functionality</h3>
+        <img src="screenshots/search_screen.jpeg" alt="Search Screen" style="width: 100%; height: auto; border-radius: 8px;">
+    </div>
 
-### 📄 Favorites View
-![Favorites Screen](screenshots/favorites_screen.jpeg)
+    <div style="text-align: center;">
+        <h3>📄 Article Detail View</h3>
+        <img src="screenshots/detail_screen.jpeg" alt="Article Detail View" style="width: 100%; height: auto; border-radius: 8px;">
+    </div>
+
+    <div style="text-align: center;">
+        <h3>📄 Favorites View</h3>
+        <img src="screenshots/favorites_screen.jpeg" alt="Favorites View" style="width: 100%; height: auto; border-radius: 8px;">
+    </div>
+
+</div>
+
 
 ## 🎥 Video Walkthrough
 
