@@ -47,6 +47,7 @@ The app uses Provider with ChangeNotifier to manage application state. The Artic
 
 ## 📁 Folder Structure
 
+```text
 lib/
 │
 ├── main.dart                      # App entry point
@@ -71,6 +72,7 @@ lib/
 │
 └── utils/
     └── hive_boxes.dart            # Hive box initialization
+
 
 ## ⚠️ Known Issues / Limitations
 No pagination support (loads all posts at once)
