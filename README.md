@@ -114,4 +114,4 @@ Watch the video walkthrough for a detailed overview of the app:
 ## 📌 Author
 
 **Ravi Yadav**  
-🔗 [GitHub Profile](https://github.com/RaviYadavO4)
+🔗 [GitHub](https://github.com/RaviYadavO4) • [LinkedIn](https://www.linkedin.com/in/ravi-s-b1a75b212/) 
