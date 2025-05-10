@@ -83,15 +83,26 @@ No error retry button (yet)
 
 ## 📸 Screenshots
 
-| 🏠 Home Screen                | 🔍 Search Functionality        |
-|-------------------------------|--------------------------------|
-| ![Home Screen](screenshots/home_screen.jpeg)  | ![Search Screen](screenshots/search_screen.jpeg) |
-| **Home Screen**               | **Search Functionality**       |
-
-| 📄 Article Detail View        | 📄 Favorites View              |
-|-------------------------------|--------------------------------|
-| ![Article Detail View](screenshots/detail_screen.jpeg) | ![Favorites View](screenshots/favorites_screen.jpeg) |
-| **Article Detail View**       | **Favorites View**     
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏠 Home Screen</strong><br>
+      <img src="screenshots/home_screen.jpeg" width="150" height="300"/>
+    </td>
+    <td align="center">
+      <strong>📄 Article Detail View</strong><br>
+      <img src="screenshots/detail_screen.jpeg" width="150" height="300"/>
+    </td>
+    <td align="center">
+      <strong>🔍 Search Functionality</strong><br>
+      <img src="screenshots/search_screen.jpeg" width="150" height="300"/>
+    </td>
+    <td align="center">
+      <strong>📄 Favorites View</strong><br>
+      <img src="screenshots/favorites_screen.jpeg" width="150" height="300"/>
+    </td>
+  </tr>
+</table>   
 
 ## 🎥 Video Walkthrough
 
